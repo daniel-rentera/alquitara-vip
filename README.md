@@ -5,6 +5,9 @@ Sitio web moderno y responsivo para **Alquitara VIP**, discoteca en Cerro de Pas
 
 Hecho con **React + Vite + TypeScript + Tailwind CSS + Framer Motion**, con backend en **Supabase**.
 
+## 🔗 Demo en vivo
+### 👉 **[alquitaravip.hostingpractice.com](https://alquitaravip.hostingpractice.com/)**
+
 ## ✨ Qué incluye
 - **Landing animada**: hero, cronograma semanal interactivo, promociones, galería, cumpleaños, ubicación con mapa.
 - **Login/registro de usuarios** (Supabase Auth).
