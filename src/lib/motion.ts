@@ -1,0 +1,2 @@
+// Curva de easing compartida (tipada para framer-motion)
+export const EASE_OUT: [number, number, number, number] = [0.22, 1, 0.36, 1]
